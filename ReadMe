@@ -1,0 +1,5 @@
+This repository is to calculate the distance moved by Vikram lander after the hop experiment has been conducted on the moon.
+The official statement from ISRO says the lander is moved by a distance of 30-40 cms.
+Using optical flow algorithm in computer vision, I tried to calculate the distance by utilising the camera image released in public domain from ISRO.
+This calculated distance should match with the distance which ISRO has released in public (30-40 cms).
+The camera instrinsic parameters are assumed based on data available on public domain like ISRO and NASA website and some wikipedia pages.
